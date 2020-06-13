@@ -1,0 +1,15 @@
+current directory: /Users/Kantyo302/Desktop/dev/hiroki_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+/Users/Kantyo302/.rbenv/versions/2.7.1/bin/ruby -I /Users/Kantyo302/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200613-80558-l5tp43.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Kantyo302/Desktop/dev/hiroki_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/Kantyo302/Desktop/dev/hiroki_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/Kantyo302/Desktop/dev/hiroki_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200613-80558-190ub5g
